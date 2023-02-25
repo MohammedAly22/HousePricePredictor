@@ -4,7 +4,7 @@ a machine learning model for predicting prices of the house trained on keras's B
 ### Dataset:
 Samples contain 13 features of houses at different locations around the Boston suburbs in the late 1970s. Targets are the median values of the houses at a location (in k$).
 
-This is the list of 14 columns and their dexription in Boston houses prices dataset:
+This is the list of 14 columns and their decription in Boston houses prices dataset:
 | column | Description |
 | --- | --- |
 | CRIM | per capita crime rate by town |
