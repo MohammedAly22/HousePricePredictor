@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;500;600;700;800&display=swap');
+
+* {
+    font-family: 'Cairo', sans-serif !important;
+}
+
+header {
+    display: none !important;
+}
+
+/* title */
+.e16nr0p30 {
+    font-weight: 700;
+    font-size: 30px;
+    color: #fff;
+}
+
+/* form button */
+.edgvbvh5 {
+    width: 100%;
+    height: 40px;
+    background-color: #5e41ff;
+    transition: box-shadow .5s cubic-bezier(.16, 1, .3, 1);
+    color: #fff;
+    border: none;
+}
+
+.edgvbvh5:hover {
+    color: #fff;
+    border: none;
+    box-shadow: 0 0 0 4px#c4b9ff;
+}
+
+.edgvbvh5:focus {
+    background-color: #5e41ff;
+    color: #fff !important;
+    box-shadow: none;
+    border: none;
+    box-shadow: 0 0 0 4px#c4b9ff;
+}
+
+/* number input */
+.css-1rvyln1:hover {
+    outline: none !important;
+    border: 1.3px solid #5e41ff !important;
+}
+
+.css-1rvyln1.focused {
+    outline: none !important;
+    border: 1.3px solid #5e41ff !important;
+}
+
+/* fotter */
+footer {
+    display: none !important;
+}
+
+/* '+' , '-' buttons */
+.step-up.css-15jfpy5.e1jwn65y1,
+.step-down.css-15jfpy5.e1jwn65y1 {
+    transition: 0.4s;
+}
+
+.step-up.css-15jfpy5.e1jwn65y1:hover,
+.step-down.css-15jfpy5.e1jwn65y1:hover {
+    background-color: #5e41ff;
+}
+
+.step-up.css-15jfpy5.e1jwn65y1:focus,
+.step-down.css-15jfpy5.e1jwn65y1:focus {
+    background-color: #5e41ff;
+}
+
+.css-8ojfln.e1wqxbhn1 {
+    float: right;
+}
+
+.st-av,
+.st-av:hover,
+.st-av:focus {
+    outline: none !important;
+    border: none !important;
+}
+
+/* alert color */
+.stAlert .css-17z2rne p {
+    color: #1bc440;
+}
