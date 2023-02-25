@@ -27,10 +27,10 @@ https://keras.io/api/datasets/boston_housing/
 
 ### Results:
 - Loss:
-<img src="/F:/loss.png" alt="loss graph">
+<img src="../loss.png" alt="loss graph">
 
 - Mean Absolute Error
-<img src="/F:/mae.png" alt="mean absolute error graph">
+<img src="../mae.png" alt="mean absolute error graph">
 
 ### Deployment:
 for deployment I used `streamllit` package which is a pretty easy and straight-forward package. Here is the link of its official website:
